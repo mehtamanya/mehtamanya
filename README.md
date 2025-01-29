@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm learning react.<br>
+I’m a passionate Full-Stack Developer currently learning React. My goal is to build innovative web applications that solve real-world problems. Always eager to learn new technologies and improve my skills!
+
+<br>
 
 
 ## 🌐 Socials:
